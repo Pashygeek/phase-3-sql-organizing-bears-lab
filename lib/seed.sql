@@ -1,3 +1,4 @@
+-- Active: 1685449296405@@127.0.0.1@3306
 INSERT INTO bears (id, name, age, sex, color, temperament, alive) VALUES
 (1,"Mr. Chocolate", 20, "M", "dark brown", "calm", 0),
 (2,"Rowdy", 10, "M", "black", "intense", 1),
